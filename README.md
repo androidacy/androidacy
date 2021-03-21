@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Great news: new team, but better!](https://www.androidacy.com/great-news-new-team-but-better/)
+- [Cryptocurrency: the future or not?](https://www.androidacy.com/cryptocurrency-the-future-or-not/)
+- [Chrome vs Firefox: the browser wars](https://www.androidacy.com/chrome-vs-firefox/)
+- [Merry Christmas 2020!](https://www.androidacy.com/merry-christmas-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
