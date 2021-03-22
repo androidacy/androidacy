@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Android: what a great ecosystem!](https://www.androidacy.com/android-what-a-great-ecosystem/)
+- [Android: what a (not) great ecosystem!](https://www.androidacy.com/android-what-a-great-ecosystem/)
 - [Great news: new team, but better!](https://www.androidacy.com/great-news-new-team-but-better/)
 - [Cryptocurrency: the future or not?](https://www.androidacy.com/cryptocurrency-the-future-or-not/)
 - [Chrome vs Firefox: the browser wars](https://www.androidacy.com/chrome-vs-firefox/)
