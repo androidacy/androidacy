@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Webview Manager 8.1.1 is out](https://www.androidacy.com/webview-manager-8-1-1-is-out/)
 - [Webview Manager 8 is out in stable channel!](https://www.androidacy.com/webview-manager-8-is-out-in-stable-channel/)
 - [Android: what a (not) great ecosystem!](https://www.androidacy.com/android-what-a-great-ecosystem/)
 - [Great news: new team, but better!](https://www.androidacy.com/great-news-new-team-but-better/)
-- [Cryptocurrency: the future or not?](https://www.androidacy.com/cryptocurrency-the-future-or-not/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
