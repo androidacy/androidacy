@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Font Manager 3.x stable series is here!](https://www.androidacy.com/font-manager-3-x-stable-series-is-here/)
 - [Font Manager is out in beta!](https://www.androidacy.com/font-manager-is-out-in-beta/)
-- [Webview Manager 8.1.1 is out](https://www.androidacy.com/webview-manager-8-1-1-is-out/)
+- [Webview Manager 8.1.3 is out](https://www.androidacy.com/webview-manager-8-1-1-is-out/)
 - [Webview Manager 8 is out in stable channel!](https://www.androidacy.com/webview-manager-8-is-out-in-stable-channel/)
-- [Android: what a (not) great ecosystem!](https://www.androidacy.com/android-what-a-great-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
