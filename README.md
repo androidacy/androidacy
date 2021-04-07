@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Privacy – easy ways of increasing it](https://www.androidacy.com/privacy-easy-ways-of-increasing-it/)
 - [Font Manager 3.0.2 release notes](https://www.androidacy.com/font-manager-3-0-2-release-notes/)
 - [Font Manager 3.x stable series is here!](https://www.androidacy.com/font-manager-3-x-stable-series-is-here/)
 - [Font Manager is out in beta!](https://www.androidacy.com/font-manager-is-out-in-beta/)
-- [Webview Manager 8.1.3 is out](https://www.androidacy.com/webview-manager-8-1-1-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
