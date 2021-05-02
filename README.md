@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Descendant relationship announcement](https://www.androidacy.com/descendant-relationship-announcement/)
-- [Privacy – easy ways of increasing it](https://www.androidacy.com/privacy-easy-ways-of-increasing-it/)
-- [Font Manager 3.0.2 release notes](https://www.androidacy.com/font-manager-3-0-2-release-notes/)
-- [Font Manager 3.x stable series is here!](https://www.androidacy.com/font-manager-3-x-stable-series-is-here/)
+- [Font Manager 4.0 beta 2 is here](https://www.androidacy.com/font-manager-4-0-beta-2-is-here/)
+- [Webview Manager 9 – It’s Here In Beta](https://www.androidacy.com/webview-manager-9-its-here-in-beta/)
+- [Font Manager 4.0 release series](https://www.androidacy.com/font-manager-4-0-release-series/)
+- [Webview Manager 8.2.x beta](https://www.androidacy.com/webview-manager-update/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
