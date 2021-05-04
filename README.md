@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Font Manager 4 Stable](https://www.androidacy.com/font-manager-4-stable/)
 - [Font Manager 4.0 beta 2 is here](https://www.androidacy.com/font-manager-4-0-beta-2-is-here/)
 - [Webview Manager 9 – It’s Here In Beta](https://www.androidacy.com/webview-manager-9-its-here-in-beta/)
 - [Font Manager 4.0 release series](https://www.androidacy.com/font-manager-4-0-release-series/)
-- [Webview Manager 8.2.x beta](https://www.androidacy.com/webview-manager-update/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
