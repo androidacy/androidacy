@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Font Previewer – Live Now](https://www.androidacy.com/font-previewer-live-now/)
 - [Font Manager v4.1](https://www.androidacy.com/font-manager-v4-1/)
 - [Webview Manger 9.1.3](https://www.androidacy.com/webview-manger-9-1/)
 - [Webview Manager v9 – Great Improvements](https://www.androidacy.com/webview-manager-v9-great-improvements/)
-- [Font Manager 4 Stable](https://www.androidacy.com/font-manager-4-stable/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
