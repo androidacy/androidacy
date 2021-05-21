@@ -24,12 +24,7 @@
 - ⚡ Fun fact **In England, exiting a party without saying goodbye is called a "French leave." In France it's called filer à l'anglaise — "to leave English Style." In the U.S., it's called an "Irish goodbye."**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Font Previewer – Live Now](https://www.androidacy.com/font-previewer-live-now/)
-- [Font Manager v4.1](https://www.androidacy.com/font-manager-v4-1/)
-- [Webview Manger 9.1.3](https://www.androidacy.com/webview-manger-9-1/)
-- [Webview Manager v9 – Great Improvements](https://www.androidacy.com/webview-manager-v9-great-improvements/)
-<!-- BLOG-POST-LIST:END -->
+- [Find them here](https://www.androidacy.com/blog/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
